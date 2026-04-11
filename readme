@@ -1,27 +1,60 @@
-This is a real-time finger counter that detects and counts the number of fingers shown in front of the camera using Python, OpenCV, and MediaPipe.
-📌 Features:
-1.Real-time hand tracking and finger counting
-2.Uses OpenCV for image processing
-3.Utilizes MediaPipe’s Hand Tracking model
-4.Simple and efficient implementation
-5.Press 'q' to exit the application
+# 👆 Real-Time Finger Counter
 
-🛠️ Technologies Used
-1.Python
-2.OpenCV (for image processing)
-3.MediaPipe (for hand tracking)
-             
-🚀 Installation & Setup:
-  #Install dependencies:
- 1.Make sure you have Python 3.x installed. Then install the required libraries: pip install opencv-python mediapipe
+A real-time finger counter that detects and counts the number of fingers shown in front of the camera using **Python**, **OpenCV**, and **MediaPipe**.
 
-2.Run the program: python finger_counter.py
-             🎯 Future Improvements:
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
-🔹 Support for multiple hands.
+---
 
-🔹 Gesture-based controls
+## 📌 Features
 
-🔹 Integration with sign language recognition
-             
-             
+| | Feature |
+|---|---------|
+| 🖐️ | Real-time hand tracking and finger counting |
+| 🎥 | Uses OpenCV for image processing |
+| 🤖 | Utilizes MediaPipe's Hand Tracking model |
+| ⚡ | Simple and efficient implementation |
+| ⌨️ | Press `q` to exit the application |
+
+---
+
+## 🛠️ Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+
+---
+
+## 🚀 Installation & Setup
+
+**1. Make sure you have Python 3.x installed. Then install the required libraries:**
+
+```bash
+pip install opencv-python mediapipe
+```
+
+**2. Run the program:**
+
+```bash
+python finger_counter.py
+```
+
+---
+
+## 🎯 Future Improvements
+
+- 🔹 Support for multiple hands
+- 🔹 Gesture-based controls
+- 🔹 Integration with sign language recognition
+
+---
+
+## ✨ Author
+
+**Abu Bakar Rakib**
+📧 [rakibcdp@gmail.com](mailto:rakibcdp@gmail.com)
+🐙 [GitHub](https://github.com/Abu-Bakar-Rakib)
